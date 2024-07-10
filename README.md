@@ -29,10 +29,11 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by passing the address. call any of the three function and set the value, and you can burn, mint or check the balance of your NFT.
 
-*Saurya Pratap*
+**Priyanshu**
 
-- GitHub:  https://github.com/saurya25122001
-- Email: 22bcs80056@cuchd.in
+- GitHub: (https://github.com/22bcs10361)
+- Email: priyanshu.kumari0031@gmail.com
+
 
 ## License
 This project is licensed under the [MIT License](https://github.com/saurya25122001/module3-myCustomToken/blob/4a838f8bda7dca1ff02d304e0b273bf313ab27be/LICENSE)
