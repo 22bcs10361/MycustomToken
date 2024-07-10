@@ -36,4 +36,4 @@ Once the contract is deployed, you can interact with it by passing the address. 
 
 
 ## License
-This project is licensed under the [MIT License](https://github.com/saurya25122001/module3-myCustomToken/blob/4a838f8bda7dca1ff02d304e0b273bf313ab27be/LICENSE)
+This project is licensed under the [MIT License](https://github.com/22bcs10361/MycustomToken/blob/0459bdc0bea9cc6ff6ddd61c540836bb0d0337dd/LICENSE)
